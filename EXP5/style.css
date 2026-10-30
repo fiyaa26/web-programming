@@ -1,0 +1,33 @@
+
+body {
+    background-color: pink;
+    font-family: Arial;
+    text-align: center;
+}
+
+.login-box {
+    background-color: white;
+    width: 300px;
+    margin: 100px auto;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px gray;
+}
+
+input {
+    width: 90%;
+    padding: 10px;
+}
+
+button {
+    background-color: green;
+    color: white;
+    padding: 10px 30px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkgreen;
+}
+
